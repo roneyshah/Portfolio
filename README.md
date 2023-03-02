@@ -107,7 +107,7 @@ console.log(`Helo`)
 <br/>
 
 ### automatic Link
-http://wwww.ru.ac.bd
+http://www.ru.ac.bd
 
 <br/>
 
