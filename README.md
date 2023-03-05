@@ -116,6 +116,25 @@ http://www.ru.ac.bd
 
 [facebook] [facebooklink]
 
+<br/>
+
+### image sytax
+
+<!-- ![profile](./images/me.jpg -->
+
+
+<img src="./images/me.jpg" width="250"/>
+
+
+
+<br/>
+
+### table sytax
+
+| Name | Email  |
+| ...........  | | ............ |
+| A Razzaque | |roneyshah990@gmail.com |
+
 
 
 <!-- all link is here -->
@@ -123,7 +142,7 @@ http://www.ru.ac.bd
 [website link]: 
 
 
-<!-- me.jpgheic -->
+
 
 
 
