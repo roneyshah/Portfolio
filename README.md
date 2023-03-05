@@ -120,10 +120,10 @@ http://www.ru.ac.bd
 
 ### image sytax
 
-<!-- ![profile](./images/me.jpg -->
+<!-- ![profile](./images/me -->
 
 
-<img src="./images/me.jpg" width="250"/>
+<img src="./images/me" width="250"/>
 
 
 
