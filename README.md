@@ -123,7 +123,7 @@ http://www.ru.ac.bd
 <!-- ![profile](./images/me -->
 
 
-<img src="./images/me" width="250"/>
+<img src="./images/me.jpg" width="300"/>
 
 
 
