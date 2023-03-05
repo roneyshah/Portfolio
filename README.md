@@ -119,9 +119,7 @@ http://www.ru.ac.bd
 <br/>
 
 ### image sytax
-
 <!-- ![profile](./images/me -->
-
 
 <img src="./images/me.jpg" width="300"/>
 
